@@ -1,7 +1,7 @@
 # React API Task - FZTPL
 
 ### Overview
-A simple React app that fetches products from the [Fake Store API](https://fakestoreapi.com/products) and displays them in a responsive grid layout with a live search bar.
+A simple React app that fetches products from the Fake Store API and displays them in a responsive grid with a live search filter.
 
 ### Tech Stack
 - React (Vite)
@@ -24,4 +24,5 @@ https://fakestoreapi.com/products
 
 ### Developer
 Barsha Basnet
+
 Task Completed: Yes
